@@ -1,0 +1,10 @@
+package beginning;
+import java.util.Scanner;
+
+public class GameExample {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package beginning;
+
+public class TestOne {
+
+	public static void main(String[] args) {
+int broj = 10;
+
+	}
+
+   }

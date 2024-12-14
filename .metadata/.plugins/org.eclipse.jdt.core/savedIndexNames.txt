@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\IgorBB\JAVA_LEARN_PROJECTS\PureSchool\.metadata\.plugins\org.eclipse.jdt.core
+1501769429.index
+1865797976.index
+2902162778.index

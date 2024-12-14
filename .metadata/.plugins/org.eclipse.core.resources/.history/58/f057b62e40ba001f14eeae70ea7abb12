@@ -1,0 +1,12 @@
+package beginning;
+
+import javax.swing.*;
+
+public class InteractionTestGUI1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

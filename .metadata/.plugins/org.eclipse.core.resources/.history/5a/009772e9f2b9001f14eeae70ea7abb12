@@ -1,0 +1,14 @@
+package beginning;
+
+public class TestOne {
+
+	public static void main(String[] args) {
+		int broj = 10;
+		for (int i = 1; i <= 10; i++) {
+			System.out.println("broj: " + i);
+		}
+		
+
+	}
+
+}

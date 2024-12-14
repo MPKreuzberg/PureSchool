@@ -1,0 +1,13 @@
+package beginning;
+
+import java.util.Scanner;
+
+public class InteractionExample1 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter something:");
+		System.out.println("You entered :");
+	}
+
+}

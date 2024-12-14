@@ -1,0 +1,35 @@
+package beginning;
+
+import java.util.Scanner;
+
+public class InteractionTest03 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println(
+				"Idemo probati zbrajanje i dodavanje svega i svacega !");
+
+		System.out.println("Unesi vrijedonst za 'x'");
+		int x = scanner.nextInt();
+		System.out.println("Unesi vrijednost za 'y'");
+
+		int y = scanner.nextInt();
+		int sum = x + y;
+		if (y != 0) {
+
+			int sub = x / y;
+			System.out.println("x = " + x);
+			System.out.println("y = " + y);
+
+			System.out.println("Zbroj vrijednosti je:" + sum);
+
+			System.out.println("Podijeljene vrijednosti su:" + sub);
+		} else {
+			System.out.println("Dijeljenje nije moguce sa nulom !");
+
+		}
+		scanner.close();
+
+	}
+
+}
